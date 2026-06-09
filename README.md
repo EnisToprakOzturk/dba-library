@@ -1,4 +1,4 @@
-# DBA'S Library: Notes & Guides
+# DBA Library: Notes & Guides
 
 A comprehensive repository of my personal notes, cheat sheets, and best practices for managing and optimizing various database systems.
 
